@@ -1,6 +1,11 @@
 # Ignore the contents of the _site directory and other cache directories
 _site/
 .sass-cache/
+.jekyll-cache/
+
+# Local-only override used for previewing on machines with an old Ruby that
+# can't build the jemoji gem chain (not used by GitHub Pages)
+_config_local_preview.yml
 
 # Ignore the directory for local files during development
 local/
