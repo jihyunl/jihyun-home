@@ -82,13 +82,13 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
+# Note: "in_progress" is intentionally excluded here - those entries have their own
+# "Working Project" tab (_pages/working-project.md) instead of appearing on /publications/.
 publication_category:
   methodological:
     title: 'Methodological Publications'
   applied:
     title: 'Applied Research Publications'
-  in_progress:
-    title: 'Papers in Progress'
   invited:
     title: 'Invited Publications'
 

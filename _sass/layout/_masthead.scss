@@ -79,3 +79,16 @@
   border-bottom: 2px solid var(--global-text-color);
   /* No need to repeat pointer-events and cursor here */
 }
+
+/*
+   Site banner color override
+   Re-skins just the top nav bar to a fixed brand color (regardless of the
+   light/dark theme toggle), with dark text/icons swapped in for contrast.
+   ========================================================================== */
+.masthead {
+  --global-bg-color             : #6A89A7;
+  --global-border-color         : #4E6A85;
+  --global-text-color           : #16232E;
+  --global-masthead-link-color       : #16232E;
+  --global-masthead-link-color-hover : #0A141B;
+}
