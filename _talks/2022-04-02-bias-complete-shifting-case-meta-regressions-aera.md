@@ -8,4 +8,4 @@ venue: "American Educational Research Association (AERA) Annual Meeting, Systema
 location: "San Diego, CA"
 ---
 
-Schauer, J., Lee, J., Diaz-Yanez, K., &amp; Pigott, T. (2022, April). AERA annual meeting, Systematic Review and Meta-Analysis SIG.
+Schauer, J., <strong>Lee</strong>, J., Diaz-Yanez, K., &amp; Pigott, T. (2022, April). AERA annual meeting, Systematic Review and Meta-Analysis SIG.

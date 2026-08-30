@@ -8,4 +8,4 @@ venue: "Society of Research Synthesis Methodology (SRSM)"
 location: "Madison, Wisconsin"
 ---
 
-Lee, J. (2025, July 9&ndash;11). Society of Research Synthesis Methodology (SRSM), Madison, Wisconsin.
+<strong>Lee</strong>, J. (2025, July 9&ndash;11). Society of Research Synthesis Methodology (SRSM), Madison, Wisconsin.

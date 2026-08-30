@@ -8,4 +8,4 @@ venue: "Society of Multivariate Experimental Psychology (SMEP) Annual Meeting"
 location: "Baltimore, MD"
 ---
 
-Lee, J. &amp; Beretvas, S. N. (2019, October 9&ndash;12). SMEP Annual Meeting, Baltimore, MD.
+<strong>Lee</strong>, J. &amp; Beretvas, S. N. (2019, October 9&ndash;12). SMEP Annual Meeting, Baltimore, MD.

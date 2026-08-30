@@ -8,4 +8,4 @@ venue: "Modern Modeling Methods"
 location: "New York, NY"
 ---
 
-Lee, J. (2026, June). *Modern Modeling Methods*, New York.
+<strong>Lee</strong>, J. (2026, June). *Modern Modeling Methods*, New York.

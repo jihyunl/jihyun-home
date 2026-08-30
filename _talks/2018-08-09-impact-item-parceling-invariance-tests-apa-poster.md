@@ -8,4 +8,4 @@ venue: "APA Annual Convention, Division 5"
 location: "San Francisco, CA"
 ---
 
-Lee, J., &amp; Whittaker, T. A. (2018, August 9&ndash;12). APA Annual Convention, Division 5, San Francisco, CA.
+<strong>Lee</strong>, J., &amp; Whittaker, T. A. (2018, August 9&ndash;12). APA Annual Convention, Division 5, San Francisco, CA.

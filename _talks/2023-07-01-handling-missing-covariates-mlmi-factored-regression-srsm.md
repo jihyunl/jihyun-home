@@ -8,4 +8,4 @@ venue: "Society of Research Synthesis Methodology (SRSM)"
 location: "Paris, France"
 ---
 
-Lee, J., Beretvas, S. N., &amp; Keller, B. T. (2023, July). SRSM, Paris, France.
+<strong>Lee</strong>, J., Beretvas, S. N., &amp; Keller, B. T. (2023, July). SRSM, Paris, France.

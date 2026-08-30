@@ -8,4 +8,4 @@ venue: "American Psychological Association (APA)"
 location: "Washington, DC"
 ---
 
-Lee, J. (2023, August). APA, Washington, DC.
+<strong>Lee</strong>, J. (2023, August). APA, Washington, DC.

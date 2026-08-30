@@ -8,4 +8,4 @@ venue: "American Psychological Association (APA)"
 location: "Seattle, WA"
 ---
 
-Lee, J. (2024, August). American Psychological Association (APA), Seattle, WA.
+<strong>Lee</strong>, J. (2024, August). American Psychological Association (APA), Seattle, WA.
