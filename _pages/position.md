@@ -6,10 +6,11 @@ author_profile: true
 ---
 
 **Assistant Professor** — 2022–Current
-Research Methodology, Measurement, and Statistics
+
+Research Methodology, Measurement, and Statistics program
 Department of Educational Psychology, University of North Texas
 
 ### Research Interests
-- **Meta-Analysis** — Handling missing data in meta-analysis; missing covariates in meta-regression
-- **Missing Data Analysis** — Multiple imputation (MI), multilevel MI, factored-regression specification (substantive model–based) approach to MI
+- **Meta-Analysis** — Methodology in meta-analysis
+- **Missing Data Analysis** — Multiple imputation (MI), multilevel MI, substantive model–based imputation approach
 - **Latent Variable Modeling** — Structural equation modeling (SEM), item parceling, multigroup SEM
