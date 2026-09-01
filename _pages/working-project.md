@@ -9,9 +9,11 @@ author_profile: true
 
 *Papers currently in progress, under review, or in preparation.*
 
+<ul>
 {% for post in site.publications reversed %}
   {% if post.category != "in_progress" %}
     {% continue %}
   {% endif %}
-  {% include archive-single.html %}
+  {% include archive-citation-only.html %}
 {% endfor %}
+</ul>
