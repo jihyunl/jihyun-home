@@ -7,6 +7,10 @@ author_profile: true
 
 *Presenting authors in boldface. Student presenters are indicated with \*.*
 
+{% include base_path %}
+
+<ul>
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% include archive-talk-citation-only.html %}
 {% endfor %}
+</ul>

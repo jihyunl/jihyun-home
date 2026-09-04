@@ -8,4 +8,4 @@ venue: "American Educational Research Association (AERA) Annual Meeting, Systema
 location: "Online"
 ---
 
-Fong, C., <strong>Lee</strong>, J., Hoff, M. L., Krou, M. R., Johnston-Ashton, K., Gonzales, C., &amp; Beretvas, S. N. (2021, April). AERA annual meeting, Systematic Review and Meta-Analysis SIG (online).
+Fong, C., <strong>Lee, J.</strong>, Hoff, M. L., Krou, M. R., Johnston-Ashton, K., Gonzales, C., &amp; Beretvas, S. N. (2021, April). AERA annual meeting, Systematic Review and Meta-Analysis SIG (online).

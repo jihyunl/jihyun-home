@@ -8,4 +8,4 @@ venue: "Society of Research Synthesis Methodology (SRSM)"
 location: "Amsterdam, Netherlands"
 ---
 
-<strong>Lee</strong>, J., &amp; Beretvas, S. N. (2024, June). SRSM, Amsterdam, Netherlands.
+<strong>Lee, J.</strong>, &amp; Beretvas, S. N. (2024, June). SRSM, Amsterdam, Netherlands.

@@ -8,6 +8,6 @@ venue: "Research Showcase, College of Education, University of North Texas"
 location: "Denton, TX"
 ---
 
-Madson, S. K.*, Jung, M., <strong>Lee</strong>, J., &amp; Martin, S. B. (2025, April 14). Research Showcase at College of Education, University of North Texas.
+Madson, S. K.*, Jung, M., <strong>Lee, J.</strong>, &amp; Martin, S. B. (2025, April 14). Research Showcase at College of Education, University of North Texas.
 
 <small>*Student presenter</small>

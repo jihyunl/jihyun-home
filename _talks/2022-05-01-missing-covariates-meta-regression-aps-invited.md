@@ -8,4 +8,4 @@ venue: "Symposium &quot;Early Career Spotlight: Increasing Diversity in the Quan
 location: "Chicago, IL"
 ---
 
-<strong>Lee</strong>, J. (2022, May, Invited). Invited talk at the symposium &quot;Early Career Spotlight: Increasing Diversity in the Quant Pipeline,&quot; Association for Psychological Science (APS), Chicago, IL.
+<strong>Lee, J.</strong> (2022, May, Invited). Invited talk at the symposium &quot;Early Career Spotlight: Increasing Diversity in the Quant Pipeline,&quot; Association for Psychological Science (APS), Chicago, IL.

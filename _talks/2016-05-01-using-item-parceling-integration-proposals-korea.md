@@ -8,4 +8,4 @@ venue: "Korean Psychological Measurement and Evaluation Association"
 location: "Seoul, South Korea"
 ---
 
-<strong>Lee</strong>, J., &amp; Kim, S. Y. (2016, May). Korean Psychological Measurement and Evaluation Association, Seoul, South Korea.
+<strong>Lee, J.</strong>, &amp; Kim, S. Y. (2016, May). Korean Psychological Measurement and Evaluation Association, Seoul, South Korea.

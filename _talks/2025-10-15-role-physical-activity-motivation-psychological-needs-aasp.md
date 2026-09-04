@@ -8,6 +8,6 @@ venue: "Association for Applied Sport Psychology (AASP) Annual Conference"
 location: "Montréal, Canada"
 ---
 
-Madson, S. K.*, Jung, M., <strong>Lee</strong>, J., &amp; Martin, S. B. (Accepted; 2025, October 15&ndash;18). Association for Applied Sport Psychology, Montréal, Canada.
+Madson, S. K.*, Jung, M., <strong>Lee, J.</strong>, &amp; Martin, S. B. (Accepted; 2025, October 15&ndash;18). Association for Applied Sport Psychology, Montréal, Canada.
 
 <small>*Student presenter</small>

@@ -5,7 +5,7 @@ category: in_progress
 permalink: /publication/2026-01-01-missing-data-interaction-effect-meta-regression
 date: 2026-01-01
 venue: "In Progress"
-citation: '<strong>Lee</strong>, J. (In Progress). Missing data and interaction effect in meta-regression.'
+citation: '<strong>Lee, J.</strong> (In Progress). Missing data and interaction effect in meta-regression.'
 ---
 
 

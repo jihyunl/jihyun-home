@@ -8,4 +8,4 @@ venue: "American Educational Research Association (AERA) Annual Meeting"
 location: "San Diego, CA"
 ---
 
-Whittaker, T., <strong>Lee</strong>, J., Dedrick, D., &amp; Munoz, C. (2022, April). AERA annual meeting.
+Whittaker, T., <strong>Lee, J.</strong>, Dedrick, D., &amp; Munoz, C. (2022, April). AERA annual meeting.
