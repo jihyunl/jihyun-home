@@ -18,11 +18,11 @@ data handling, and structural equation modeling.
 University of Texas at Austin <br>
 Dissertation: *Handling Missing Covariates in Meta-Regression Using Multilevel Multiple Imputation with Factored Regression Specification*
 
-*M.A. in Psychology: Psychometrics and Statistics in Psychology | 2016 <br>
+* M.A. in Psychology: Psychometrics and Statistics in Psychology | 2016 <br>
 Ewha Womans University <br>
 Thesis: *Item Parceling in Structural Equation Modeling – The Integration of Controversies and Proposals*
 
-*B.S. in Psychology | 2014 <br>
+* B.S. in Psychology | 2014 <br>
 Ewha Womans University <br>
 
 
