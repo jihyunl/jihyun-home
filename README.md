@@ -12,8 +12,6 @@ automatically on every push to `main` — no local build step required.
 | Page | File |
 |---|---|
 | Home / bio | `_pages/about.md` |
-| Education | `_pages/education.md` |
-| Professional Position | `_pages/position.md` |
 | Publications (Methodological / Applied / In Progress / Invited) | `_publications/*.md` |
 | Presentations | `_talks/*.md` |
 | Instructional Activities | `_pages/instructional-activities.md` |
