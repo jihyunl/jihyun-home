@@ -12,7 +12,14 @@ redirect_from:
 Jihyun Lee is a quantitative methodologist whose research focuses on methodologies in meta-analysis, missing
 data handling, and structural equation modeling. 
 
-**Education**
+### Research Interests
+
+- **Meta-Analysis** — Methodology in meta-analysis
+- **Missing Data Analysis** — Multiple imputation (MI), multilevel MI, substantive model–based imputation approach
+- **Latent Variable Modeling** — Structural equation modeling (SEM), item parceling, multigroup SEM
+
+
+### Education
 
 * Ph.D. in Educational Psychology: Quantitative Methods | 2022<br> 
 University of Texas at Austin <br>
