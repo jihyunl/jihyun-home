@@ -25,19 +25,18 @@ author:
   avatar           : "jihyun-lee.jpg"
   name             : "Jihyun Lee, Ph.D."
   pronouns         : # example: "she/her"
-  bio              : "Assistant Professor · Quantitative methodologist studying missing data in meta-analysis, multiple imputation, and structural equation modeling."
-  location         : "Denton, Texas"
-  employer         : "University of North Texas"
+  bio              : "Assistant Professor · Quantitative methodologist"
+  employer         : "University of North Texas, Denton, Texas"
   uri              : # URL
   email            : "Jihyun.Lee@unt.edu"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL - add if/when Dr. Lee wants a public Google Scholar profile linked
+  googlescholar    : "https://scholar.google.com/citations?user=Vx0w6_4AAAAJ&hl=en&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL - add if/when Dr. Lee wants a public ORCID linked
+  orcid            : "https://orcid.org/0000-0002-0172-9106"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
@@ -50,7 +49,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # Username
+  github           : "https://github.com/jihyunl"
   kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
