@@ -31,7 +31,3 @@ Thesis: *Item Parceling in Structural Equation Modeling – The Integration of C
 
 * B.S. in Psychology | 2014<br>
 Ewha Womans University<br>
-
-
-
-[Google Scholar](https://scholar.google.com/citations?user=Vx0w6_4AAAAJ&hl=en&oi=ao){: .btn .btn--info}
